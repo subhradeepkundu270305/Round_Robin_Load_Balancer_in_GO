@@ -61,4 +61,4 @@ The requests will be evenly distributed across backend servers using the **Round
 This project is open-source and available under the **MIT License**.
 
 ---
-🔗 **Connect with Me:** subhradeepkundu27@gmail.com
+🔗 **Connect with Me:** subhradeepkundu2005@gmail.com
